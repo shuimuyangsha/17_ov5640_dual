@@ -113,3 +113,9 @@ con
 
 19:40:44 INFO  : Launch script is exported to file 'F:\intel_project\AX7010\16_ov5640_dual\ov5640_dual.sdk\.sdk\launch_scripts\xilinx_c-c++_application_(system_debugger)\system_debugger_using_debug_dual_ov5640_test.elf_on_local.tcl'
 19:43:02 INFO  : Disconnected from the channel tcfchan#1.
+15:43:45 INFO  : Launching XSCT server: xsct.bat -interactive E:\Vivado\course_s2_sdk\17_ov5640_dual\ov5640_dual.sdk\temp_xsdb_launch_script.tcl
+15:43:47 INFO  : XSCT server has started successfully.
+15:43:47 INFO  : Successfully done setting XSCT server connection channel  
+15:43:48 INFO  : Successfully done setting SDK workspace  
+15:43:55 INFO  : Registering command handlers for SDK TCF services
+15:43:55 INFO  : Processing command line option -hwspec E:/Vivado/course_s2_sdk/17_ov5640_dual/ov5640_dual.sdk/system_wrapper.hdf.
