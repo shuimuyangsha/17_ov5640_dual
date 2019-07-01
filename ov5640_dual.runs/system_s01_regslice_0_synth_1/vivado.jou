@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Sep 25 15:55:44 2018
+# Process ID: 2508
+# Current directory: D:/ax7010MODIFY/AX7010_MODIFY/16_ov5640_dual/ov5640_dual.runs/system_s01_regslice_0_synth_1
+# Command line: vivado.exe -log system_s01_regslice_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source system_s01_regslice_0.tcl
+# Log file: D:/ax7010MODIFY/AX7010_MODIFY/16_ov5640_dual/ov5640_dual.runs/system_s01_regslice_0_synth_1/system_s01_regslice_0.vds
+# Journal file: D:/ax7010MODIFY/AX7010_MODIFY/16_ov5640_dual/ov5640_dual.runs/system_s01_regslice_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source system_s01_regslice_0.tcl -notrace

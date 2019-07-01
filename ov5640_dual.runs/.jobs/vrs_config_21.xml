@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="system_alinx_ov5640_RGB565_0_1_synth_1" LaunchDir="F:/intel_project/AX7015/new/update/release/ov5640_modify_ip/14_ov5640_dual/ov5640_dual.runs/system_alinx_ov5640_RGB565_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_alinx_ov5640_RGB565_0_2_synth_1" LaunchDir="F:/intel_project/AX7015/new/update/release/ov5640_modify_ip/14_ov5640_dual/ov5640_dual.runs/system_alinx_ov5640_RGB565_0_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_auto_pc_2_synth_1" LaunchDir="F:/intel_project/AX7015/new/update/release/ov5640_modify_ip/14_ov5640_dual/ov5640_dual.runs/system_auto_pc_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_auto_pc_1_synth_1" LaunchDir="F:/intel_project/AX7015/new/update/release/ov5640_modify_ip/14_ov5640_dual/ov5640_dual.runs/system_auto_pc_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_auto_pc_0_synth_1" LaunchDir="F:/intel_project/AX7015/new/update/release/ov5640_modify_ip/14_ov5640_dual/ov5640_dual.runs/system_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+
